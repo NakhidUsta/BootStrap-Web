@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,400;1,100;1,700&family=Poppins:wght@100;200;300;400;500&family=Raleway:wght@400;500;600&family=Roboto:wght@100&display=swap');
+
+
+.navbar{
+    font-size: 22px;
+}
+
+.resimSlider{
+    height: 800px;
+}
+body{
+    padding-top: 50px;
+    font-family: "Raleway",Arial;
+}
+.haqqimizda{
+    background-color: #f2f2f2;
+}
+.xett{
+    border: none;
+    border-top: 3px solid #000000;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #fff;
+    background-color: #fff;
+}
+.igrey{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.qrup1{
+    margin-bottom: 10px;
+}
+.qrupCard:hover{
+    opacity: 0.6;
+    
+}
+.galeri{
+    background-color: #f2f2f2;
+}
+.form-group{
+    padding-bottom: 15px;
+}
+.container input{
+    border: 2px solid black;
+    border-radius: 5px;
+   
+    height: 50px;
+   
+}
+.container input:hover{
+   
+    border: 5px solid blue;
+}
+.container textarea{
+    border: 2px solid black;
+    border-radius: 5px;
+   
+  
+   
+}
+.container textarea:hover{
+   
+    border: 5px solid blue;
+}
+.btn{
+    font-size: 16px;
+    
+}
